@@ -1,6 +1,9 @@
 # Computer-Vision-Models
 This is a storehouse for various CV models I'm making
 
+Current Confusion Matrix picture is obtained by using the transfer learning model, trained for 20 epochs on the foo-11 dataset by
+https://www.epfl.ch/labs/mmspg/downloads/food-image-datasets/
+
 Current files:
 models.py:
   Contains build_augment_layer function to create an augment layer using a TF sequential Model
